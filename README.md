@@ -4,13 +4,13 @@
 <h4><b>Dataset Description:</b> There are 198,502 reviews in total spanning May 1996 - July 2014.</h4>
 <h4><b>This dataset includes below mentioned variables:</b></h4>
 <ol>
-•	reviewerID - ID of the reviewer 
-•	asin - ID of the product
-•	reviewerName - name of the reviewer
-•	helpful - helpfulness rating of the review
-•	reviewText - text of the review
-•	overall - rating of the product
-•	summary - summary of the review
-•	unixReviewTime - time of the review
-•	reviewTime - time of the review (raw)
+reviewerID - ID of the reviewer<br>
+asin - ID of the product<br>
+reviewerName - name of the reviewer<br>
+helpful - helpfulness rating of the review<br>
+reviewText - text of the review<br>
+overall - rating of the product<br>
+summary - summary of the review<br>
+unixReviewTime - time of the review<br>
+reviewTime - time of the review (raw)<br>
 </ol>
